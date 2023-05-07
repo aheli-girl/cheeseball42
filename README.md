@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cheeseball42
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Akila Helitha Paranawithana
+- 👀 I’m interested in software development, philosophy and psychology.
+- 🌱 I’m currently learning software engineering at Monash University.
+- 💞️ I’m looking to collaborate on awesome projects that are potentially revolutionary.
+- 📫 Reach me at https://form.jotform.com/231258353295863
 
 <!---
 cheeseball42/cheeseball42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
